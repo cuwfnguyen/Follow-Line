@@ -1,2 +1,2 @@
 # Follow-Line
-Xe do duong tren nen den va trang
+Xe dò đường trên nền đen và trắng
